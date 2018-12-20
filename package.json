@@ -1,0 +1,30 @@
+{
+  "name": "sample_graph_ql_api_node_js",
+  "version": "1.0.0",
+  "description": "Sample Graph QLA PI (Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehranhamedani/SampleGraphQLAPI_Node.js.git"
+  },
+  "keywords": [
+    "Sample",
+    "Node.js",
+    "GraphQL"
+  ],
+  "author": "Mehran Hamedani Nezhad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehranhamedani/SampleGraphQLAPI_Node.js/issues"
+  },
+  "homepage": "https://github.com/mehranhamedani/SampleGraphQLAPI_Node.js#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "install": "^0.12.2"
+  }
+}
